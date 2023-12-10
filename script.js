@@ -2,8 +2,8 @@ let seconds = 0;
 let tens = 0;
 const display = document.querySelector("#display")
 let startBtn = document.querySelector("#startBtn")
-let stop = document.querySelector("#stopBtn")
-let reset = document.querySelector("#resetBtn")
+let stopBtn = document.querySelector("#stopBtn")
+let resetBtn = document.querySelector("#resetBtn")
 let appendTens = document.querySelector('#tens')
 let appendSeconds = document.querySelector("#seconds")
 let interval;
